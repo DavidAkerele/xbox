@@ -1,0 +1,85 @@
+.perfect-container {
+  /* align-items: center; */
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.perfect-container h1 {
+  width: 672px;
+  height: 182px;
+  left: 104px;
+  top: 5740px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 91px;
+  line-height: 100%;
+  /* or 91px */
+
+  letter-spacing: -0.03em;
+
+  color: #ffffff;
+}
+
+.perfect-container h1 span {
+  color: #9bf00b;
+}
+
+.perfect-container p {
+  width: 392px;
+  height: 140px;
+  left: 104px;
+  top: 5963px;
+
+  /* lead */
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 150%;
+  /* or 34px */
+
+  letter-spacing: -0.03em;
+  margin-top: 41px;
+  color: #a0a0a0;
+}
+
+.perf {
+  transform: translateY(200px);
+}
+
+.plu {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  left: 846px;
+  top: 439px;
+}
+.plu1 {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  left: 905px;
+  top: 739px;
+}
+.plu2 {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  left: 594px;
+  top: 899px;
+}
+.plu3 {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  left: 329px;
+  top: 919px;
+  filter: drop-shadow(0px 0px 50px rgba(155, 240, 11, 0.5));
+}

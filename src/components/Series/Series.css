@@ -1,0 +1,114 @@
+.series-cont {
+  width: 1440px;
+  position: relative;
+  /* height: 572px;
+  left: 79px;
+  top: 7216px;
+  background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(134, 207, 9, 0.345313) 20.31%,
+      rgba(155, 240, 11, 0.4) 23.53%,
+      rgba(0, 219, 0, 0.4) 35.42%,
+      rgba(0, 123, 0, 0.4) 40.63%,
+    rgba(0, 132, 0, 0.4) 49.51%
+  );
+  opacity: 0.7;
+  border: 1px solid #000000;
+  filter: blur(125px); */
+  margin: 0 auto;
+  /* background: url('../../assets/green.svg' ) no-repeat center center/cover ; */
+}
+
+.series-img{
+    align-items: center;
+    display: block;
+    justify-content:center;
+    margin:0 auto;
+}
+
+.samuel{
+    position: absolute;
+    width: 1235px;
+    /* height: 597px; */
+    left: 102px;
+    top: 224px;
+    margin:0 auto;
+}
+
+.musta{
+    position: absolute;
+    top: 280px;
+    left: 402px;
+}
+
+.img-contianer{
+    position: relative;
+    /* background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(134, 207, 9, 0.345313) 20.31%, rgba(155, 240, 11, 0.4) 23.53%, rgba(0, 219, 0, 0.4) 35.42%, rgba(0, 123, 0, 0.4) 40.63%, rgba(0, 132, 0, 0.4) 49.51%);
+    opacity: 0.7;
+    border: 1px solid #000000;
+    filter: blur(125px); */
+    
+}
+.gradient-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    filter: blur(125px);
+    opacity: 0.7;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(134, 207, 9, 0.345313) 20.31%, rgba(155, 240, 11, 0.4) 23.53%, rgba(0, 219, 0, 0.4) 35.42%, rgba(0, 123, 0, 0.4) 40.63%, rgba(0, 132, 0, 0.4) 49.51%); /* Adjust the gradient colors and direction as needed */
+  }
+.series-cont h1{
+    /* width: 980px; */
+height: 105px;
+left: 230px;
+top: 7048px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 91px;
+line-height: 115%;
+/* identical to box height, or 105px */
+
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+}
+.series-cont h2{
+    /* width: 215px; */
+    height: 80px;
+    left: 613px;
+    top: 7153px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 53px;
+    line-height: 150%;
+    /* identical to box height, or 80px */
+    text-align: center;
+    letter-spacing: -0.03em;
+    margin-bottom:16px;
+    color: #FFFFFF;
+}
+.series-cont p{
+    /* width: 123px; */
+    height: 25px;
+    left: 659px;
+    top: 7249px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    
+    text-align: center;
+    color: #9BF00B;
+}

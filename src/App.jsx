@@ -7,6 +7,10 @@ import Specs from "./components/Specs/Specs";
 import Dreams from "./components/Dreams/Dreams";
 import Optimized from "./components/Optimized/Optimized";
 import Control from "./components/Control/Control";
+import Perfect from "./components/Perfect/Perfect";
+import Series from "./components/Series/Series";
+import Footer from "./components/Footer/Footer";
+
 
 class App extends React.Component {
   render() {
@@ -18,6 +22,10 @@ class App extends React.Component {
         <Dreams />
         <Optimized />
         <Control />
+        <Perfect />
+        <Series />
+
+        <Footer />
       </div>
     );
   }
